@@ -1,5 +1,7 @@
 
-
+<img src='https://i.ibb.co/vwkHbhK/anti.png' width='1000'>
+ </p>
+ 
 # AntiReboundGuardian
 
 AntiReboundGuardian is a Node.js application that allows you to kick specific accounts from a group chat on Discord. It can be used as a countermeasure against users utilizing the ReboundGuardian tool to automatically re-add themselves after being kicked.
